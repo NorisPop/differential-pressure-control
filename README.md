@@ -54,9 +54,4 @@ The control program was built in **Siemens LOGO! Soft Comfort** using **Function
 
 Siemens LOGO! 8.3 PLC, Siemens LOGO! Soft Comfort (FBD), Nidec Commander S100 VFD, HOTCOLD DPC250-D Transmitter, 0–10 V Analog Signal Scaling, Three-Phase Motor Control.
 
-## Repository Structure
 
-```text
-differential-pressure-control/
-├── README.md
-└── docs/            # Full project documentation (PDF)
